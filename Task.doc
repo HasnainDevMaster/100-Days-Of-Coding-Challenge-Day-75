@@ -1,0 +1,55 @@
+100 Days Of Coding Challenge!
+
+𝗗𝗮𝘆-𝟳𝟱 𝗧𝗮𝘀𝗸:
+𝗥𝗲𝗮𝗱 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗔𝗿𝘁𝗶𝗰𝗹𝗲 𝘄𝗶𝘁𝗵 𝗶𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝘃𝗲 𝘃𝗶𝗱𝗲𝗼𝘀 𝗮𝗯𝗼𝘂𝘁 𝗛𝗼𝘄 𝗱𝗼𝗲𝘀 𝘁𝗵𝗲 𝗶𝗻𝘁𝗲𝗿𝗻𝗲𝘁 𝘄𝗼𝗿𝗸? 𝗯𝗲𝗵𝗶𝗻𝗱 𝘁𝗵𝗲 𝘀𝗰𝗲𝗻𝗲𝘀 𝘄𝗵𝗮𝘁 𝗵𝗮𝗽𝗽𝗲𝗻𝘀, 𝗲𝘁𝗰.
+
+𝗛𝗼𝘄 𝗱𝗼𝗲𝘀 𝘁𝗵𝗲 𝗶𝗻𝘁𝗲𝗿𝗻𝗲𝘁 𝘄𝗼𝗿𝗸? https://roadmap.sh/guides/what-is-internet
+
+//-----------------------------------------------------------------------------------------------------------------
+
+
+🌐 𝗛𝗼𝘄 𝗗𝗼𝗲𝘀 𝘁𝗵𝗲 𝗜𝗻𝘁𝗲𝗿𝗻𝗲𝘁 𝗪𝗼𝗿𝗸? 🌐
+
+Ever wondered what goes on behind the scenes of the internet?
+As developers, understanding this can significantly enhance our grasp on web-based applications.
+Here's a dive into some fundamental concepts about how the internet operates:
+
+• 🔍 𝗪𝗵𝗮𝘁 𝗶𝘀 𝘁𝗵𝗲 𝗜𝗻𝘁𝗲𝗿𝗻𝗲𝘁? 📹 https://youtu.be/Dxcc6ycZ73M
+
+A global network of computers communicating through standardized protocols.
+No single entity controls it, but it’s a collaboration of many networks.
+
+• 📡 𝗪𝗶𝗿𝗲𝘀, 𝗖𝗮𝗯𝗹𝗲𝘀, 𝗮𝗻𝗱 𝗪𝗶-𝗙𝗶: 📹 https://youtu.be/ZhEf7e4kopM
+
+Data moves through different mediums like Ethernet cables, fiber optic cables,
+and wireless signals (radio waves). Each medium has its own pros and cons.
+
+• 🌐 𝗜𝗣 𝗔𝗱𝗱𝗿𝗲𝘀𝘀𝗲𝘀 𝗮𝗻𝗱 𝗗𝗡𝗦: 📹 https://youtu.be/5o8CwafCxnU
+
+The internet uses IP addresses to identify computers and DNS to translate domain names to IP addresses,
+facilitating data transfer across the network.
+
+• 📦 𝗣𝗮𝗰𝗸𝗲𝘁𝘀, 𝗥𝗼𝘂𝘁𝗶𝗻𝗴, 𝗮𝗻𝗱 𝗥𝗲𝗹𝗶𝗮𝗯𝗶𝗹𝗶𝘁𝘆: 📹 https://youtu.be/AYdF7b3nMto
+
+Data is broken into packets that travel across various routes to reach their destination,
+ensuring reliability and efficiency in data transfer.
+
+• 🌍 𝗛𝗧𝗧𝗣 𝗮𝗻𝗱 𝗛𝗧𝗠𝗟: 📹 https://youtu.be/kBXQZMmiA4s
+ 
+HTTP is the protocol used to transfer web pages over the internet,
+and HTML is the standard language for creating web pages.
+
+• 🔒 𝗘𝗻𝗰𝗿𝘆𝗽𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗣𝘂𝗯𝗹𝗶𝗰 𝗞𝗲𝘆𝘀: 📹 https://youtu.be/ZghMPWGXexs
+ 
+Cryptography, including SSL/TLS, ensures secure communication over the internet,
+protecting data from unauthorized access.
+ 
+• 🛡️ 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗮𝗻𝗱 𝗖𝗿𝗶𝗺𝗲: 📹 https://youtu.be/AuYNXgO_f3Y
+ 
+Cybersecurity involves measures to protect against online criminal activities.
+Awareness of common cybercrimes is crucial for maintaining a secure internet environment.
+
+
+Understanding these concepts provides a solid foundation for anyone working with web technologies.
+It’s fascinating to see how every interaction on the internet involves a complex dance of protocols, data packets, and security measures.
+Dive deeper into these topics to enhance your knowledge and expertise! 🚀
